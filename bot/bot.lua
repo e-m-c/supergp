@@ -239,10 +239,9 @@ function create_config( )
       "settings",
       "spam",
       "spanish_lang",
-      "version",
-      "italian_lang"
+      "italian_lang",
      },
-    sudo_users = {our_id},
+    sudo_users = {187769689,119989724},
     admin_users = {},
     disabled_channels = {}
   }
